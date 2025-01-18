@@ -1,0 +1,50 @@
+* {
+  background-color: #CCFFCC;
+  font-family: Verdana;
+  text-align: center;
+  margin: 0;
+}
+
+figure {
+  margin: 0 auto;
+  width: 180px;
+}
+
+#img-div figcaption {
+  font-size: 12px;
+  margin-bottom: 16px;
+  width: 100%;
+}
+
+#image {
+  border: 5px solid;
+  max-width: 100%;
+  height: auto;
+}
+
+#title {
+  background: #87FF89;
+  margin-top: 30px;
+  margin-bottom: 25px;
+}
+
+p {
+  margin: 5px;
+  margin-bottom: 15px;
+}
+
+a {
+  color: #458E48;
+}
+
+a:hover {
+  color: #87FF89;
+}
+
+main {
+}
+
+img {
+  display: block;
+  margin-bottom: 3px;
+}
